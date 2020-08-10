@@ -9,8 +9,8 @@ using namespace std;
 
 int main()  //¾ùÖµÂË²¨
 {
-	cv::Mat frame = imread("C:/Users/lenovo/Desktop/ÊıÍ¼Í¼Æ¬/001.jpg");
-	cv::Mat rFrame = imread("C:/Users/lenovo/Desktop/ÊıÍ¼Í¼Æ¬/001.jpg",0);
+	cv::Mat frame = imread("C:/Users/lenovo/Desktop/ÊıÍ¼Í¼Æ¬/002.jpg");
+	cv::Mat rFrame = imread("C:/Users/lenovo/Desktop/ÊıÍ¼Í¼Æ¬/002.jpg",0);
 
 		cv::Mat hsvMat;
 		cv::Mat edgeX_Mat;
